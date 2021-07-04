@@ -69,4 +69,4 @@ wadllib==1.3.3
 Werkzeug==2.0.0
 zipp==1.0.0
 zope.interface==4.7.1
-freeze:0:1: E902 FileNotFoundError: [Errno 2] No such file or directory: 'freeze'
+
